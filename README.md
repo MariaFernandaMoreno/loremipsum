@@ -1,2 +1,2 @@
 # loremipsum
-Ejercicio GitHub con Bash - Santex
+Ejercicio GitHub con Bash
